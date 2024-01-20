@@ -7,13 +7,13 @@ Hi, my name is Atahan and I'm 16 yo. I started software development 3 year ago w
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/1118623830307512331" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1118623830307512331"></a>
+    <a href="https://discord.com/users/1190468600436371456" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1118623830307512331"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/1118623830307512331" target="_blank"><img src="https://shields.io/badge/Atahan-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/1190468600436371456" target="_blank"><img src="https://shields.io/badge/Atahan-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/atahanyldz" target="_blank"><img src="https://shields.io/badge/AtahanYLDZ-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://instagram.com/rowyycim" target="_blank"><img src="https://shields.io/badge/Rowyycim-111111.svg?&style=for-the-badge&logo=instagram"></a>
 </div>
