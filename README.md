@@ -7,7 +7,7 @@ Hi, my name is Atahan and I'm 18 yo. I started software development 5 year ago w
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/1190468600436371456" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1118623830307512331"></a>
+    <a href="https://discord.com/users/1190468600436371456" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1190468600436371456"></a>
 </div>
 
 ## ⚡ Contact
