@@ -1,6 +1,6 @@
 # ✨ Say Hello!
 
-Hi, my name is Atahan and I'm 18 yo. I started software development 3 year ago with developing Discord bots. And i continued to develop myself in the direction of html and javascript, i still learning new stuff in programming. I'm realizing my big projects right now, i'm a JavaScript, TypeScript, Python, CSS, HTML and Vue developer. In database i use usually "mongodb". You can follow me for more information!
+Hi, my name is Atahan and I'm 18 yo. I started software development 5 year ago with developing Discord bots. And i continued to develop myself in the direction of html and javascript, i still learning new stuff in programming. I'm realizing my big projects right now, i'm a JavaScript, TypeScript, Python, CSS, HTML and Vue developer. In database i use usually "mongodb". You can follow me for more information!
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=atahanyldz&color=32CD32"/>
