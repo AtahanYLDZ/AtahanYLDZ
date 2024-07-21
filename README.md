@@ -15,7 +15,6 @@ Hi, my name is Atahan and I'm 18 yo. I started software development 5 year ago w
 <div align="center">
     <a href="https://discord.com/users/1190468600436371456" target="_blank"><img src="https://shields.io/badge/AtahanYLDZ-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/atahanyldz" target="_blank"><img src="https://shields.io/badge/AtahanYLDZ-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://instagram.com/rowyizm" target="_blank"><img src="https://shields.io/badge/Rowyizm-111111.svg?&style=for-the-badge&logo=instagram"></a>
 </div>
 
 ## 💻 Technologies I Use
